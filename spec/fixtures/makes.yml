@@ -1,7 +1,8 @@
 valid_make:
-  id: 100002
-  name: TestMake
-  webmotors_id: 65211
+  id: 2
+  name: "CHEVROLET"
+  webmotors_id: 2
+
 
 invalid_make:
   id: nil

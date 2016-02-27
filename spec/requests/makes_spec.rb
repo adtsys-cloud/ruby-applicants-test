@@ -1,6 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe "Makes", type: :request do
+
   describe "GET makes_path" do
     it "Load root_path" do
       visit root_path
