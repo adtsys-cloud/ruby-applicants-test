@@ -1,0 +1,9 @@
+valid_make:
+  id: 100002
+  name: TestMake
+  webmotors_id: 65211
+
+invalid_make:
+  id: nil
+  name: nil
+  webmotors_id: nil

@@ -1,0 +1,9 @@
+valid_model:
+  id: 999
+  make_id: 888
+  name: TestName
+
+invalid_model:
+  id: nil
+  make_id: nil
+  name: nil
